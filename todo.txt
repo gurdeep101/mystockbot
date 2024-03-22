@@ -11,3 +11,5 @@ agentic approach to querying
 regex for transcripts
 agents for analysis
 check other production rag stuff
+query caching
+ranking / re-ranking
