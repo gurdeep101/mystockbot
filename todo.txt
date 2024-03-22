@@ -1,0 +1,13 @@
+prompts
+unstructured api
+settings - chunk size, etc.
+node metadata
+indexing strategy
+store parsed doc
+store embeddings
+evals
+query engine types
+agentic approach to querying
+regex for transcripts
+agents for analysis
+check other production rag stuff
