@@ -1,4 +1,5 @@
 prompts
+other LLMs - claude 3 haiku ??
 unstructured api
 settings - chunk size, etc.
 node metadata
